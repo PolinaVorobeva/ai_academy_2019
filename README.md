@@ -30,3 +30,7 @@ https://github.com/sberbank-ai/ai-academy-2019/blob/master/Dota2SkillPrediction_
 https://s3.eu-central-1.amazonaws.com/ai-academy-2019/public/final/{filename}
 
 filenames: academy2019_final_train.jsonlines, academy2019_final_test.jsonlines, academy2019_final_train.csv, academy2019_final_test.csv
+
+
+# NB 
+'additional_data.zip' - папка с дополнительной информацией о героях (dota2_heroes), возможностях (dota2_abilities) и покупках персонажей (dota2_items)
