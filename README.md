@@ -33,4 +33,4 @@ filenames: academy2019_final_train.jsonlines, academy2019_final_test.jsonlines, 
 
 
 # NB 
-'additional_data.zip' - папка с дополнительной информацией о героях (dota2_heroes), возможностях (dota2_abilities) и покупках персонажей (dota2_items)
+'additional_data.zip' - папка с дополнительной информацией о героях (dota2_heroes), возможностях (dota2_abilities) и покупках (dota2_items) персонажей 
