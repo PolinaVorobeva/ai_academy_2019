@@ -21,4 +21,12 @@ final solution, top-8 (0.90208)
 # Дополнительно
 
 Базавое решение от организаторов:
+
 https://github.com/sberbank-ai/ai-academy-2019/blob/master/Dota2SkillPrediction_Tutorial.ipynb
+
+# Данные
+
+Данные для решения можно найти по ссылке:
+https://s3.eu-central-1.amazonaws.com/ai-academy-2019/public/final/{filename}
+
+filenames: academy2019_final_train.jsonlines, academy2019_final_test.jsonlines, academy2019_final_train.csv, academy2019_final_test.csv
